@@ -1,0 +1,77 @@
+{
+    "cats": {
+    "name": "cats",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 25,
+            "comments":10
+        },
+
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 30,
+            "comments":15
+        },
+
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 35,
+            "comments":20
+        }
+
+    ]
+},
+"dogs": {
+    "name": "dogs",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 25,
+            "comments":10
+        },
+
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 30,
+            "comments":15
+        },
+
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 35,
+            "comments":20
+        }
+
+    ]
+},
+"cows": {
+    "name": "cats",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 25,
+            "comments":10
+        },
+
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 30,
+            "comments":15
+        },
+
+        {
+            "image": "https://picsum.photos/200",
+            "likes": 35,
+            "comments":20
+        }
+
+    ]
+}
+}
